@@ -1,1 +1,1 @@
-# proyecto_reducido
+# Proyecto Reducido
